@@ -1,5 +1,5 @@
-# Javascript
-List of everything I've ever created using javascript:
+# Javascript || Typescript
+List of everything I've ever created using javascript or Typescript:
 
 ## DsCatalog
 *Project in progress...* </br>
